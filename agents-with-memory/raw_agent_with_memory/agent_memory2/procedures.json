@@ -1,0 +1,26 @@
+{
+  "Create a simple AI agent with memory": {
+    "name": "Create a simple AI agent with memory",
+    "steps": [
+      "Initialize memory storage (files, database, etc.)",
+      "Create functions to add facts to semantic memory",
+      "Create functions to store conversation history in episodic memory",
+      "Create functions to retrieve relevant memory based on context",
+      "Connect memory system to an LLM like llama3.1:8b",
+      "Implement a query function that includes memory context in prompts",
+      "Add memory updating after each interaction"
+    ],
+    "description": "Steps to create a basic AI agent with memory capabilities",
+    "timestamp": "2026-09-19T14:50:39.206946",
+    "usage_count": 0
+  },
+  "making tea step1": {
+    "name": "making tea step1",
+    "steps": [
+      "heat water step2: add sugar and tea and boil it step 3: add milk and boil for some time step 4: pour the tea and enjoy"
+    ],
+    "description": null,
+    "timestamp": "2026-09-19T14:54:27.570951",
+    "usage_count": 0
+  }
+}
